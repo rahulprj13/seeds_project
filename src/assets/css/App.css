@@ -1,0 +1,25 @@
+.card{
+    transition: 0.3s;
+  }
+  
+  .card:hover{
+    transform: translateY(-8px);
+  }
+
+
+  /* register page */
+  
+  .form-control::placeholder {
+    color: #000;
+  }
+  
+  .form-control:focus {
+    background: transparent;
+    color: white;
+    box-shadow: none;
+    border-color: #fff;
+  }
+  
+  .form-label {
+    color: #fff;
+  }
