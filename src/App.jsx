@@ -5,8 +5,6 @@ import { Header } from "./Component/Layout/Header"
 import Approutes from "./Component/Routes/Approutes"
 import CategoryContextProvider from "./Component/Context.jsx/CategoryContext"
 
-
-
 function App() {
 
   return (
